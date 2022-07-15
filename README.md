@@ -1,6 +1,7 @@
 ## Hi! I'm Isac
-- 🔭 I’m currently working on front-end and back-end
-- 🌱 I’m currently learning data science
+- 🔭 I'm currently an intern at Pedbot
+- 🌱 I’m currently learning frontend, backend and data science
+- 📚 I study Big Data in Agribusiness, at Fatec Shunji Nishimura
 - 👯 I’m looking to collaborate on any type of project
 <div align="center">
   <a href="https://github.com/Isac999">
