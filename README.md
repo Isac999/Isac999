@@ -18,4 +18,6 @@
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="center" alt="Rafa-CSS" height="40" width="50"  
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+![Snake animation](https://github.com/isac999/isac999/blob/output/github-contribution-grid-snake.svg)
 </div>
