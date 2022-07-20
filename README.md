@@ -21,3 +21,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 ![Snake animation](https://github.com/isac999/isac999/blob/output/github-contribution-grid-snake.svg)
 </div>
 
+![Snake animation](https://github.com/isac999/isac999/blob/output/github-contribution-grid-snake.svg)
