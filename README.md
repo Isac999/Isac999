@@ -22,9 +22,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="center" alt="zacss" height="75" width="70"  
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="center" alt="zacss" height="75" width="70"  
+<img align="center" alt="zacss" height="50" width="60"  
 src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
+<img align="center" alt="zacss" height="75" width="70"  
+src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
    
+ 
    
 </div>
 <!--
