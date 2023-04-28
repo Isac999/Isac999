@@ -30,8 +30,6 @@ src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-origina
 src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"/>
 <img align="center" alt="zacss" height="50" width="60"  
 src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"/>
-<img align="center" alt="zacss" height="50" width="60"  
-src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"/>
    
  
    
