@@ -10,7 +10,7 @@
 </div>
   
 
-  <div style="display: inline-block; width: 100px">  <br>
+  <div style="display: flex; justify-content: center; align-items: center;">  <br>
       <img align="center" alt="Rafa-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
       <img align="center" alt="Rafa-HTML" height="55" width="65"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
       <img align="center" alt="Rafa-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
