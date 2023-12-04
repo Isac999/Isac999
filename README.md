@@ -35,9 +35,9 @@
       src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"/>
       <img align="center" alt="zacss" height="45" width="50"  
       src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"/>
-      <img align="center" alt="zacss" height="45" width="50"  
+      <img align="center" alt="zacss" height="48" width="55"  
       src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg"/>
-      <img align="center" alt="zacss" height="55" width="50"  
+      <img align="center" alt="zacss" height="55" width="55"  
       src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg"/>
       <img align="center" alt="zacss" height="55" width="55"  
       src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"/>
