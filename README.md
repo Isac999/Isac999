@@ -5,8 +5,8 @@
 - 🌀 I’m looking to collaborate on any type of project
 <div align="center">
   <a href="https://github.com/Isac999">
-  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=Isac999&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-     <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isac999&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=Isac999&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=true"/>
+     <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isac999&layout=compact&langs_count=7&theme=ambient_gradient"/>
 </div>
       <div>
   <div id="myDivzinha" style="display: flex; justify-content: space-between; align-items: center; height: 40px;">
