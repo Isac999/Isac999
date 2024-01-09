@@ -5,11 +5,13 @@
 - 🌀 I’m looking to collaborate on any type of project
 <div align="center">
   <a href="https://github.com/Isac999">
-  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=Isac999&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
-   
-  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isac999&layout=compact&langs_count=7&theme=neon"/>
+    <img height="190em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Isac999&show_icons=true&theme=neon&include_all_commits=true&count_private=true"></img>
+  </a>
+  
+  <a href="https://github.com/Isac999">
+    <img height="190em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isac999&layout=compact&langs_count=7&theme=neon"></img>
+  </a>
 </div>
-<div>
   <div id="myDivzinha" style="display: flex; justify-content: space-between; align-items: center; height: 40px;">
       <img align="center" alt="Rafa-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
       <img align="center" alt="Rafa-HTML" height="55" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
@@ -60,6 +62,7 @@
     
   </div>
 </div>
-
+<!--
+<div>
   ![Snake animation](https://github.com/isac999/isac999/blob/output/github-contribution-grid-snake.svg)
-
+-->
