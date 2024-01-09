@@ -3,6 +3,17 @@
 - 🧩 I’m currently learning frontend, backend and data science
 - 📈 I have a degree in Big Data, at Fatec Shunji Nishimura
 - 🌀 I’m looking to collaborate on any type of project
+
+
+### 🏆 GitHub Profile Trophy
+
+<p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="repositório de troféus">
+    <img width="100%%" src="https://github-profile-trophy.vercel.app/?username=Isac999&column=9&theme=darkhub&no-frame=true&no-bg=true" />
+  </a>
+</p>
+
+
 <div align="center">
   <a href="https://github.com/Isac999">
     <img height="190em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Isac999&show_icons=true&theme=neon&include_all_commits=true&count_private=true"></img>
