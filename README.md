@@ -12,7 +12,6 @@
     <img width="100%%" src="https://github-profile-trophy.vercel.app/?username=Isac999&column=9&theme=darkhub&no-frame=true&no-bg=true" />
   </a>
 </p>
-<br/>
 
 <div align="center">
   <a href="https://github.com/Isac999">
@@ -23,7 +22,6 @@
     <img height="190em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isac999&layout=compact&langs_count=7&theme=neon"></img>
   </a>
 </div>
-<br/>
 <div align="center" style="display: flex; justify-content: center; align-items: center; height: 40px;">
       <img align="center" alt="Rafa-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
       <img align="center" alt="Rafa-HTML" height="55" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
