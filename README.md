@@ -26,7 +26,7 @@
       <img align="center" alt="Rafa-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
       <img align="center" alt="Rafa-HTML" height="55" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
       <img align="center" alt="Rafa-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-      <img align="center" alt="Rafa-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"    />
+      <img align="center" alt="Rafa-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/laravel/laravel-original.svg"    />
       <img align="center" alt="Rafa-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
       <img align="center" alt="zacss" height="50" width="50"  
       src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"/>
@@ -49,7 +49,7 @@
       <img align="center" alt="zacss" height="45" width="50"  
       src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"/>
       <img align="center" alt="zacss" height="48" width="55"  
-      src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg"/>
+      src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nestjs/nestjs-original.svg"/>
       <img align="center" alt="zacss" height="55" width="55"  
       src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg"/>
       <img align="center" alt="zacss" height="55" width="55"  
