@@ -5,7 +5,7 @@
 - 🌀 I’m looking to collaborate on any type of project
 
 
-### 🏆 GitHub Profile Trophy 
+### 🏆 GitHub Profile Trophy
 
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="repositório de troféus">
