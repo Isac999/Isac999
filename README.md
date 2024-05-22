@@ -1,7 +1,7 @@
 ## Hi! I'm Isac
 - 🔥 I am currently a Mid-level Developer at Pedbot
 - 🧩 I’m currently learning frontend, backend and data science
-- 📈 I have a degree in Big Data, at Fatec Shunji Nishimura 
+- 📈 I have a degree in Big Data, at Fatec Shunji Nishimura
 - 🌀 I’m looking to collaborate on any type of project
 
 
