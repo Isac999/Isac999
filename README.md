@@ -73,5 +73,4 @@
   </div>
 </div>
 
-<div>
   ![Snake animation](https://github.com/isac999/isac999/blob/output/github-contribution-grid-snake.svg)
