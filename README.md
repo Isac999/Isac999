@@ -71,7 +71,5 @@
       src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg"/>
 
   </div>
-
-  ![snake gif](https://github.com/Isac999/Isac999/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
 
