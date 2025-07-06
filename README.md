@@ -9,7 +9,7 @@
 
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="repositório de troféus">
-    <img width="100%%" src="https://github-profile-trophy.vercel.app/?username=Isac999&column=9&theme=darkhub&no-frame=true&no-bg=true" />
+    <img width="100%%" src="https://github-profile-trophy.vercel.app/?username=Isac999&column=9&theme=discord&no-frame=true&no-bg=true" />
   </a>
 </p>
 
