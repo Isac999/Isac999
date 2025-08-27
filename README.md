@@ -6,14 +6,6 @@
   <p style="font-size:16px;">🧩 <b>I’m currently learning frontend, backend and data science</b></p>
   <p style="font-size:16px;">📈 <b>I have a degree in Big Data, at Fatec Shunji Nishimura</b></p>
   <p style="font-size:16px;">🌀 <b>I’m looking to collaborate on any type of project</b></p>
-  <br>
-  ### 🏆 GitHub Profile Trophy
-<p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="repositório de troféus">
-   <img src="https://github-profile-trophy-git-main.ryo-ma.vercel.app/?username=Isac999&column=9&theme=discord&no-frame=true&no-bg=true" />
-  </a>
-</p>
-
 </td>
       <td width="50%" align="center">
         <a href="https://github.com/Isac999">
@@ -21,7 +13,7 @@
         </a>
         <br>
         <a href="https://github.com/Isac999">
-          <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Isac999&theme=discord"/>
+          <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isac999&layout=compact&langs_count=7&theme=neon"/>
         </a>
       </td>
   </tr>
@@ -63,6 +55,4 @@
     <td align="center"><img align="center" alt="selenium" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg"/></td>
   </tr>
 </table>
-
-
 </div>
