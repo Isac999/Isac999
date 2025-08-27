@@ -52,6 +52,7 @@
     <td align="center"><img align="center" alt="pandas" height="55" width="55" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"/></td>
     <td align="center"><img align="center" alt="postgresql" height="50" width="55" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg"/></td>
     <td align="center"><img align="center" alt="selenium" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg"/></td>
+    <td align="center"><img align="center" alt="selenium" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg"/></td>
   </tr>
 </table>
 
