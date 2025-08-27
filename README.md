@@ -24,7 +24,7 @@
 <table align="center">
   <tr>
     <td align="center"><img align="center" alt="python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></td>
-    <td align="center"><img align="center" alt="php" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/></td>
+    <td align="center"><img align="center" alt="php" height="55" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/></td>
     <td align="center"><img align="center" alt="javascript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></td>
     <td align="center"><img align="center" alt="laravel" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/laravel/laravel-original.svg" /></td>
     <td align="center"><img align="center" alt="vue" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></td>
