@@ -9,7 +9,7 @@
 
   <!-- Snake animation -->
   <p align="center">
-    <img src="https://github.com/Isac999/Isac999/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+    <img src="https://github.com/Isac999/Isac999/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   </p>
 </td>
       <td width="50%" align="center">
