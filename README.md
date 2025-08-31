@@ -6,6 +6,11 @@
   <p style="font-size:16px;">🧩 <b>I’m currently learning frontend, backend and data science</b></p>
   <p style="font-size:16px;">📈 <b>I have a degree in Big Data, at Fatec Shunji Nishimura</b></p>
   <p style="font-size:16px;">🌀 <b>I’m looking to collaborate on any type of project</b></p>
+
+  <!-- Snake animation -->
+  <p align="center">
+    <img src="https://github.com/Isac999/Isac999/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  </p>
 </td>
       <td width="50%" align="center">
         <a href="https://github.com/Isac999">
