@@ -12,7 +12,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Isac999/Isac999/blob/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/Isac999/Isac999/blob/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://github.com/Isac999/Isac999/blob/output/github-contribution-grid-snake.svg" width="400">
+    <img alt="Snake animation" src="https://github.com/Isac999/Isac999/blob/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </p>
 </td>
