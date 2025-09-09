@@ -7,6 +7,8 @@
   <p style="font-size:16px;">📈 <b>I have a degree in Big Data, at Fatec Shunji Nishimura</b></p>
   <p style="font-size:16px;">🌀 <b>I’m looking to collaborate on any type of project</b></p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Isac999&theme=discord&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
   <!-- Snake animation -->
 <p align="center">
   <picture>
